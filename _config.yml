@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Autapp
 description: A website that intends to help people study and understand projects in a collaborative way. (WIP)
