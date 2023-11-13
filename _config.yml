@@ -4,3 +4,4 @@ plugins:
 - jekyll-remote-theme
 title: Autapp
 description: A website that intends to help people study and understand projects in a collaborative way. (WIP)
+_includes/head-custom-google-analytics.html
